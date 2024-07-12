@@ -30,9 +30,6 @@ h6 {
 }
 
 .grid-item {
-  display: grid;
-  justify-content: center;
-  align-items: center;
   border: 5px solid rgba(0, 0, 0, 0.03);
   border-radius: 3px;
   font-size: 35px;
